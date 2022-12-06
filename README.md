@@ -1,6 +1,6 @@
 # appdev
 **My First Repository**
----
+--- ---
 # My Favorite Series / Movie
 - [Stranger Things](https://www.netflix.com/ph-en/title/80057281)
 - [Manifest](https://www.netflix.com/ph-en/title/80241318)
